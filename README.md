@@ -6,7 +6,7 @@ Bioinformatics-based transcriptomic analysis to identify key genes associated wi
 
 This study focused on identifying differentially expressed genes (DEGs), exploring their biological significance through Gene Ontology (GO) and KEGG pathway enrichment analyses, and evaluating their potential as biomarkers for lung cancer progression.
 
-Academic Thesis Project – MGM University
+Academic Thesis Project - MGM University
 
 ## Dataset
 
