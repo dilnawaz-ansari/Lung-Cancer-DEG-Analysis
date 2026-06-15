@@ -1,7 +1,7 @@
 # Lung Cancer DEG Analysis
 
 ## Overview
-Differential gene expression analysis to identify key 
+Differential Gene Expression analysis to Identify key 
 oncogenes in lung cancer progression using public GEO dataset.
 
 ## Dataset
