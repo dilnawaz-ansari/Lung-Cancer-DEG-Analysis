@@ -23,7 +23,7 @@ oncogenes in lung cancer progression using public GEO dataset.
 - KEGG cancer pathway enrichment
 
 ## Tools & Languages
-Python | R | DESeq2 | ggplot2 | pheatmap | clusterProfiler
+Python | R | DESeq2 | ggplot2 | heatmap | clusterprofiler
 
 ## Outputs
 See /plots folder for all visualizations
